@@ -1,7 +1,7 @@
 #
-# Code Found @ https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=153764
-# By User: edwardsnick
-# Use at your own risk!
+#  Code can be found at @ https://www.raspberrypi.org/forums/viewtopic.php?f=32&t=153764
+#  By user: edwardsnick
+#  Use at your own risk!
 # 
 #  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
 #  BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
